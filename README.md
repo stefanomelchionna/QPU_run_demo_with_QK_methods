@@ -1,4 +1,4 @@
-# TheQompany_QPU_run_demo_with_QK_methods
+# QPU_run_demo_with_QK_methods
 
 In this tutorial, we would like to show an example of how to run code on a quantum computer. Coding a quantum computer can be done via an API using the Python language.
 
